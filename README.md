@@ -1,4 +1,4 @@
-# 🔐 Poem PIN Extractor
+#Poem PIN Extractor
 
 A beginner-friendly Python project that extracts hidden PIN codes from poems by selecting specific words from each line and counting their letters.
 
@@ -16,7 +16,7 @@ For each poem:
 4. If a line doesn't contain the required word, use `0`.
 5. Combine the numbers to create a secret PIN.
 
-## 💻 Example
+##Example
 
 ### Input
 
@@ -55,7 +55,7 @@ PIN: **5202**
 - Indexing
 - `enumerate()`
 
-## 🎯 Learning Objectives
+##Learning Objectives
 
 This project helped me practice:
 
@@ -66,31 +66,6 @@ This project helped me practice:
 - Applying conditional logic
 - Building beginner-friendly algorithms
 
-## ▶️ Running the Project
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/poem-pin-extractor.git
-```
-
-Navigate to the project folder:
-
-```bash
-cd poem-pin-extractor
-```
-
-Run the program:
-
-```bash
-python pin_extractor.py
-```
-
-## 📌 Example Output
-
-```python
-['5202', '3346', '50000']
-```
 
 ## 📄 License
 
