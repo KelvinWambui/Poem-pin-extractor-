@@ -2,7 +2,7 @@
 
 A beginner-friendly Python project that extracts hidden PIN codes from poems by selecting specific words from each line and counting their letters.
 
-## 📖 How It Works
+##How It Works
 
 For each poem:
 
